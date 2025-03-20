@@ -10,4 +10,5 @@ This repository contains an implementation of a Deep Convolutional Generative Ad
 ## References
 
 Original DCGAN paper: https://arxiv.org/abs/1511.06434
+
 TensorFlow DCGAN tutorial: https://www.tensorflow.org/tutorials/generative/dcgan
